@@ -174,3 +174,5 @@ go to your ip address in the browser
  
 this it
 
+additionaly you candownload the single php file from adminer.org
+for database administration its a single page application
