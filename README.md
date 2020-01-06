@@ -170,7 +170,7 @@ then reload the server
 
 go to your ip address in the browser
 
-#### http://<your ip>
+#### http://ip
  
 this it
 
