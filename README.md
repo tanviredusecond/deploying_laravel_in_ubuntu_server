@@ -58,7 +58,9 @@ create the file
 #### => vim index.php
 
 write this line
-####  <?php phpinfo() ?>
+  <?
+  php phpinfo() 
+  ?>
  
  save and exit
  
