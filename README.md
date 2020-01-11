@@ -166,10 +166,6 @@ change the name to index.php
 
 #### => mv server.php index.php
 
-then reload the server
-
-#### =>service apache2 restart
-
 go to your ip address in the browser
 
 #### http://ip
@@ -178,3 +174,11 @@ this it
 
 additionaly you candownload the single php file from adminer.org
 for database administration its a single page application
+
+downlaod the adminer.php then
+#### =>sudo apt-get install php-mysql
+
+
+then reload the server
+
+#### =>service apache2 restart
